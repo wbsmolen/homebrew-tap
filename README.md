@@ -7,7 +7,7 @@ manager for macOS.
 brew install --cask wbsmolen/tap/aerospork
 ```
 
-The cask installs `aerospork.app` into `/Applications`, links the bundled CLI onto your `PATH` as
+The cask installs `AeroSpork.app` into `/Applications`, links the bundled CLI onto your `PATH` as
 `aerospork`, and installs the man pages and bash/fish/zsh completions.
 
 Builds are universal (arm64 + x86_64), signed with a Developer ID, notarized by Apple and stapled,
